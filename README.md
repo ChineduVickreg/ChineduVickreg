@@ -5,6 +5,9 @@ Connect with me ...(https://github.com/ChineduVickreg/ChineduVickreg),(www.linke
 <!--
 **ChineduVickreg/ChineduVickreg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+(I'm thrilled to see you here!
+)
+
 
 - 🔭 I’m currently learning Cloud DevOps Engineering with Udacity ...
 - 🌱 I’m currently learning Docker, Kubernetes, Ansible, Prometheus etc...
